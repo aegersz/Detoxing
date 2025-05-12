@@ -17,3 +17,5 @@ this soundtrack carries me from **chaos to clarity**.
 * (too many to list but " Keep on Jumpin' " resonates)
 
 ---
+
+![My House Music Escape](HouseMusic_QR.png)
