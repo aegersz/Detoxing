@@ -10,6 +10,10 @@
 
 All major stimulants — from amphetamine to MDMA — are built on the **phenethylamine scaffold**:
 
+--- next generated "m"ark"d"own doco: 
+
+**Phenethylamine = Benzene Ring – CH2 – CH2 – NH2**
+
 This tiny backbone is the **template for dopamine, noradrenaline, and almost every stimulant drug**.
 
 ---
