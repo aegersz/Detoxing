@@ -1,4 +1,4 @@
-## 🎶 My Constant: House Music
+87## 🎶 My Constant: House Music
 
 Even through the heaviest phases of tapering and legal pressure,  
 **house music remains my escape, my therapy, my rhythm**.
@@ -18,4 +18,4 @@ this soundtrack carries me from **chaos to clarity**.
 
 ---
 
-![My House Music Escape](HouseMusic_QR.png)
+![My House Music Escape](AndrewEgerszegi_HouseMusic_QR.png)
