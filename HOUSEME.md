@@ -5,11 +5,11 @@ Even through the heaviest phases of tapering and legal pressure,
 
 While my neurochemistry shifts and routines change,  
 the beat stays consistent —  
-groovy, soulful, deep, and alive.
+**groovy**, soulful, deep, and alive.
 
 > *“Music reminds me who I am without the meth.  
 It’s not a distraction — it’s an anchor.”*  
-> – Andrew Egerszegi
+> – ChatGPT, not Andrew Egerszegi
 
 Whether it’s Soulful House, Tech, Progressive, Chill, Deep Tech Minimal, or a forgotten SoundCloud gem —  
 this soundtrack carries me from **chaos to clarity**.
