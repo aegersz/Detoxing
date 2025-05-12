@@ -14,6 +14,6 @@ It’s not a distraction — it’s an anchor.”*
 Whether it’s Soulful House, Tech, Progressive, Chill, Deep Tech Minimal, or a forgotten SoundCloud gem —  
 this soundtrack carries me from **chaos to clarity**.
 
-*(too many to list but "Keep on Jumpin'" resonates)
+* (too many to list but " Keep on Jumpin' " resonates)
 
 ---
