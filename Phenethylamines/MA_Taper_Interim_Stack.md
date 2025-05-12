@@ -3,8 +3,10 @@
 **Why ?**: *Because I have no legal (or otherwise) access to Bupropion/Zyban*
 
 **Title**: *Interim Stack for Methamphetamine Taper (Pre-Bupropion Phase)*  
+
 **Author**: Andrew Egerszegi  
-**Use Case**: Supporting neurochemical stability and resilience while tapering off Methamphet7amine slowly, prior to initiating Bupropion.
+
+**Use Case**: Supporting neurochemical stability and resilience while tapering off Methamphetamine slowly, prior to initiating Bupropion.
 
 ---
 
