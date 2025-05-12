@@ -4,7 +4,7 @@
 
 **Title**: *Interim Stack for Methamphetamine Taper (Pre-Bupropion Phase)*  
 **Author**: Andrew Egerszegi  
-**Use Case**: Supporting neurochemical stability and resilience while tapering off Methamphetamine slowly, prior to initiating Bupropion.
+**Use Case**: Supporting neurochemical stability and resilience while tapering off Methamphet7amine slowly, prior to initiating Bupropion.
 
 ---
 
@@ -59,7 +59,7 @@
 ---
 
 > *“The brain is listening. This stack helps you whisper instead of scream.”*  
-> – Andrew Egerszegi
+> – ChatGPT, and not Andrew Egerszegi (but I like AI's little thoughts !
 
 ---
 
